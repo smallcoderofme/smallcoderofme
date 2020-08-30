@@ -1,11 +1,9 @@
-# Profile
-
-## Game development
+# Game development
 
 ###	Engine(Framework): 
 	Egret, LayaAir, Pixijs, Godot, OpenFL
 
-## Web development
+# Web development
 
 ###	Frontend:
 	Angular
