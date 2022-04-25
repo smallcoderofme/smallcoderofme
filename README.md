@@ -1,4 +1,2 @@
 # Game development
-
-###	Engine(Framework): 
-	Unity, Egret, LayaAir, Pixijs, Godot, OpenFL
+Unity, Egret, LayaAir, Godot, CocosCreator
